@@ -1,0 +1,6 @@
+{
+  "name": "FinPilot - AI Personal Finance Advisor",
+  "description": "AI-powered personal finance advisor with expense categorization, spending pattern analysis, automated budget generation, and natural-language financial queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
